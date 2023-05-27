@@ -21,7 +21,7 @@ To install and run this website, follow these steps:
 2. Install a web server such as XAMPP or WAMP on your machine.
 3. Move the downloaded files to the web server's root directory.
 4. Start the web server.
-5. Open a web browser and navigate to the website by entering http://localhost in the address bar.
+5. Open a web browser and navigate to the website by entering http://1812ksh.c1.biz in the address bar.
 
 # Contributing
 If you would like to contribute to this project, please follow these steps:
